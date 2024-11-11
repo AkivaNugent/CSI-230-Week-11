@@ -1,0 +1,5 @@
+etc/passwd
+/bin/bash
+bin/sh
+\.\./
+cmd\.exe
